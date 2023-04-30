@@ -1,0 +1,129 @@
+.main_banner_content{
+    margin-top: 80px;
+    top: 10%;
+    left: 5%;
+}
+.main_banner_content h4{
+    font-size: 26px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: tomato;
+}
+
+.main_banner_content h5 {
+    font-size: 45px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.button{
+    color: white;
+    padding: 10px 20px;
+    background-color: var(--color-second);
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.button:hover{
+    background-color: var(--color-button);
+color: black !important;
+
+}
+
+
+.sm_banner_content {
+    margin-top: 50px;
+    margin-left: 15px;
+    top: 10%;
+    left: 5%;
+}
+
+.sm_banner_content h4 {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: tomato;
+}
+
+.sm_banner_content h5 {
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: black;
+}
+.sm_banner_content p {
+    
+    color: black;
+}
+.sm_banner{
+    width: 49%;
+}
+
+.home-wrapper-2{
+    /* background-color:var(--color-first); */
+    background-color: #f5f5f7;
+}
+
+.categories{
+    background-color: white;
+    box-shadow: 0 0 10px #0000001a;
+    padding: 15px;
+}
+
+.card_wrapper{
+    background-color: white;
+        box-shadow: 0 0 10px #0000001a;
+        padding: 15px;
+}
+
+/* Blog  Card Start */
+
+.blog_card{
+    background-color: white;
+        /* box-shadow: 0 0 10px #0000001a; */
+        /* padding: 15px; */
+        border-radius: 10px;
+}
+
+.blog_card img{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+
+/* Blog Card End */
+
+
+/* 
+    Product 
+*/
+
+.product_card{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+}
+.product_card img {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.product_details .brand{
+    color: tan;
+    font-size: 13px;
+}
+.product_details .product_title{
+    font-size: 18px;
+    color: var(--color-second);
+}
+.product_details .price{
+    font-size: 15px;
+    color: #000;
+    font-weight: 800;
+}
+.action_top{
+    top: 20%;
+    right: 20px;
+}
+        /* 
+        Product  End
+        */

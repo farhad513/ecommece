@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+footer{
+    background-color: var(--color-second);
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0; */
+}
+
+.footer_top{
+    padding:100px;
+}
+footer:not(:first-child){
+    border-top: 1px solid var(--color-third);
+}
+
+.input_design_footer{
+    height: 50px !important;
+   padding: 10px;
+}
+
+.icon_design{
+margin-left: 15px;
+cursor: pointer;
+}
+       
